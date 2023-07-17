@@ -1,6 +1,6 @@
-import logo from './logo.svg';
+
 import './App.css';
-import Base from './Base/Base';
+// import Base from './Base/Base';
 import Students from './Component/Students';
 import { data } from './Data/data';
 import { useState } from 'react';
